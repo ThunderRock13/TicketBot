@@ -1,15 +1,15 @@
 {
-  "clientId": "748279401275326614",
+  "clientId": "",
   "token": "",
 
-  "parentOpened": "785574744908365835",
-  "Category1": "In-Game",
-  "Category2": "Discord Support",
-  "Category3": "Other",
+  "parentOpened": "",
+  "Category1": "",
+  "Category2": "",
+  "Category3": "",
 
 
-  "roleSupport": "785574185186623508",
+  "roleSupport": "",
   
-  "logsTicket": "931981734852067428",
-  "ticketChannel": "931984641651527680"
+  "logsTicket": "",
+  "ticketChannel": ""
 }
